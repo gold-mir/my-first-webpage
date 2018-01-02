@@ -16,8 +16,26 @@ h2 {
 
 ul {
   list-style-position: inside;
+  color: blue;
+}
+
+ol {
+  list-style-position: inside;
+  color: #ffffff;
 }
 
 li {
-  color: blue;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color:inherit;
+}
+
+a:hover {
+  color: hotpink;
 }
