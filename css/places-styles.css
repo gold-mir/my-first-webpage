@@ -1,0 +1,23 @@
+body {
+  background-color: #55bad6;
+  text-align: center;
+}
+
+h1 {
+  color: #ff0000;
+  text-shadow: 4px 4px #000000;
+}
+
+h2 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #b144ce;
+  text-shadow: -6px -6px #00ff00;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+li {
+  color: blue;
+}
