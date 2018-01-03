@@ -1,18 +1,18 @@
-#My First Webpage
+# My First Webpage
 
-####Simple HTML project, January 2 2018
+#### Simple HTML project, January 2 2018
 
-####By **Miranda Keith and Panatda Inthala**
+#### By **Miranda Keith and Panatda Inthala**
 
-##Description
+## Description
 
 *A simple webpage created to practice HTML, CSS, and git commands.*
 
-##Setup
+## Setup
 1. Clone https://github.com/gold-mir/my-first-webpage
 2. Open my-first-webpage.html in a browser.
 3. Internet access is required to view images.
 
-##Technologies Used
+## Technologies Used
 
 *HTML, CSS*
